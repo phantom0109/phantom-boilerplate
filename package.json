@@ -1,5 +1,5 @@
 {
-  "name": "js-stack-from-scratch",
+  "name": "phantom-boilerplate",
   "version": "2.4.5",
   "description": "JavaScript Stack from Scratch - Step-by-step tutorial to build a modern JavaScript stack",
   "scripts": {
@@ -9,7 +9,7 @@
     "glob": "^7.1.1",
     "markdownlint": "^0.4.0"
   },
-  "repository": "verekia/js-stack-from-scratch",
-  "author": "Jonathan Verrecchia - @verekia",
+  "repository": "github.com//phantom0109/phantom-boilerplate.git",
+  "author": "Hayate Kimura",
   "license": "MIT"
 }
